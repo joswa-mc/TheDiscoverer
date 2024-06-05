@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TopDown/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Egypt.unity
+    guid: 81db8b6e72f3fe04795de0d29958c116
   m_configObjects: {}
